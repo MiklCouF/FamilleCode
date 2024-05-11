@@ -1,0 +1,51 @@
+https://www.gloomaps.com/mxgXyE9Rw4	
+https://excalidraw.com/#json=dL0R52CyM6FdbhJNjMdxX,q5LTvMKvt6-UMzgHGPXzgA
+https://developer.mozilla.org/fr/docs/Web/JavaScript/Data_structures
+
+
+	valeurs
+	types
+	méthodes
+	objet
+	opérateur
+
+	react :
+Hook : UseRef (à importer : import { UseRef, Use State } from "react";
+// <input ref={inputRef} <button onClick={handleClick}>
+
+// function handleClick=
+// <Input handleClick={handleclick} inputRef={inputRef} />
+	nombre :
+
+Nous disposons même de plusieurs systèmes de numération ! Le décimal a pour base 10 (ce qui signifie qu'il se sert de chiffres entre 0 et 9 dans chaque rang), mais il en existe d'autres
+-----------
+Binaire
+    Utilisé par le plus bas niveau de langage des ordinateurs, il est composé de 0 et de 1.
+
+Octal
+    Utilisant une base 8, les chiffres entre 0 et 7 sont utilisés dans chaque rang.
+
+Hexadécimal
+    Utilisant une base 16, les chiffres entre 0 et 9 puis les lettres de a à f sont utilisés dans chaque rang. Vous avez peut-être déjà rencontré ces nombres en définissant des couleurs en CSS.
+---------
+NaN ("Not a Number")
+---------
+
+Les doubles (pour double précision) :
+
+Ce sont des nombres à virgule flottante de précision supérieure aux précédents (on les dit plus précis en raison du plus grand nombre de décimales possibles).
+
+------------------------
+
+Les nombres flottants | floats :
+
+Ces nombres ont une partie fractionnaire et un point sépare la partie entière de la partie fractionnaire (là où en France nous mettons une virgule). Voici quelques exemples de nombres flottants : 12.5 et 56.7786543.
+
+-----------------------
+
+Les entiers | integer :
+
+Ils représentent des nombres sans partie fractionnaire. Ils peuvent être positifs ou négatifs. Voici quelques exemples de nombres entiers : 10, 400 ou -5.
+
+----------------------
+
